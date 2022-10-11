@@ -1,4 +1,4 @@
-# T3A2
+# T3A2-- Actividad 2
 
 ##Etapa 1. descripcion del problema
 Realiza una programa que calcule las horas transcurridas entre dos horas de dos días de la semana. No se tendrán en cuenta los minutos ni los segundos.
@@ -9,17 +9,10 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 Proceso:
 -calcular las horas de un periodo de tiempo
 +-------------------------------------------+
-| tu hora de inicio:
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+| tu hora de inicio:                        |
+| tu hora de fin:                           |
+| tu dia de inicio:                         |
+| tu dia de fin:                            | 
+| tu tiempo transcurrido es de:             |
++-------------------------------------------+
+
