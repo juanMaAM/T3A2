@@ -5,17 +5,20 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 
 ##etapa 2. Especificaciones
 1. Entrada:
-- hora: hora de inicio, hora de fin
-- fecha: dia inicio, dia fin
+- variables string: hora de inicio, hora de fin
+- variabless int: dia inicio, dia fin
 2. Proceso:
 -calcular las horas de un periodo de tiempo
-3. Salida
+3. Salida:
 ~~
++-------------------------------------------+
+|    DIFERENCIA DE HORAS ENTRE LOS DIAS     |
 +-------------------------------------------+
 | tu hora de inicio: 10:00 hrs              |
 | tu hora de fin: 8:00hrs                   |
 | tu dia de inicio: martes                  |
 | tu dia de fin: jueves                     | 
++-------------------------------------------+
 | tu tiempo transcurrido es de: 46 hrs      |
 +-------------------------------------------+
 ~~
