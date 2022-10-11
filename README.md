@@ -8,6 +8,7 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 - fecha: dia inicio, dia fin
 Proceso:
 -calcular las horas de un periodo de tiempo
+~~~
 +-------------------------------------------+
 | tu hora de inicio:                        |
 | tu hora de fin:                           |
@@ -15,4 +16,8 @@ Proceso:
 | tu dia de fin:                            | 
 | tu tiempo transcurrido es de:             |
 +-------------------------------------------+
+~~~
 
+##Etapa 3. Diseño de la solución
+diagrama de la clase
+![](https://github.com/juanMaAM/T3A2/blob/main/T3A2.png)
